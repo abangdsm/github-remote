@@ -1,4 +1,4 @@
 <?php 
-$admin='Dwi Star';
+$admin='Erick Handoko';
 echo $admin;
 ?>
